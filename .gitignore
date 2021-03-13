@@ -14,7 +14,7 @@
 pyvenv.cfg
 .venv
 pip-selfcheck.json
-share
+[Ss]hare
 
 ### vscode ###
 .vscode/*
